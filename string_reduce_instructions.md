@@ -11,3 +11,5 @@ Output: 2
 Input: "cccc"
 Output: 4
 ```
+
+My Observations: If you try use recursivite is probaly Ruby will Return the Exception: <code>StringReduction is_reducible': stack level too deep (SystemStackError)</code>
