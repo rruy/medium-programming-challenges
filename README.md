@@ -1,6 +1,6 @@
 # medium-programming-challenges
 
-Medium programming challenges from coderbyte. Language is Ruby on Rails.
+Medium programming challenges from [coderbyte](https://coderbyte.com/). Language is Ruby on Rails.
 
 - Highlights
 - String Algorithms
